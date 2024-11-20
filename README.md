@@ -17,3 +17,10 @@ Frameworks: TensorFlow, PyTorch
 Libraries: NumPy, OpenCV, Matplotlib
 Tools: Jupyter Notebook, Google Colab
 Dataset Management: pandas, scikit-learn
+
+Project Roadmap
+ Dataset Collection and Preprocessing ✅
+ Model Architecture Design ✅
+ Training and Fine-Tuning 
+ Evaluation and Benchmarking
+ Deployment and Optimization
